@@ -1,7 +1,0 @@
-flask
-flask-cors
-pandas
-opencv-python
-mediapipe
-numpy
-requests
